@@ -3,6 +3,9 @@ Tabulate seeds public sale data
 
 https://dao.hypha.earth/hypha/proposals/36860
 
+Prerequisites: `node.js` https://nodejs.org/en/ 
+
+
 ```
 git clone git@github.com:chuck-h/prop36860.git 
 ```
