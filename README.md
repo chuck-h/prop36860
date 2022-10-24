@@ -18,6 +18,6 @@ npm install
 
 If it is necessary to change some configuration parameters, edit the variable definitions at the beginning of the script file
 
-![image](https://user-images.githubusercontent.com/2141014/197373736-2e31175b-98a0-4123-bc68-ec3b07cbf8e5.png)
+![image](https://user-images.githubusercontent.com/2141014/197585404-78b7c08f-3a09-4af7-8719-30c60c65c834.png)
 
-![image](https://user-images.githubusercontent.com/2141014/197374011-8651320a-015b-4b70-883f-8e936e6615ea.png)
+![image](https://user-images.githubusercontent.com/2141014/197585984-258dba87-308a-4a41-aff5-4d9d40459bcd.png)
