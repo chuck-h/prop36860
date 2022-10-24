@@ -179,7 +179,7 @@ function husdAll() {
   console.log(`...    summing to ${payments.reduce((sum, p) => { return sum + p.seedsQty; }, 0)} seeds,`+
         ` $${0.01*Math.trunc(payments.reduce((sum, p) => { return sum + +p.multipliedUsdValue; }, 0)/100)}.`);
   console.log(`... ${seedsSendCount} tlosto.seeds disbursement transactions processed.`);
-  console.log(`...    ${0.0001*Math.round(1000*seedsSendTotal)} seeds disbursed` +
+  console.log(`...    ${0.0001*Math.round(10000*seedsSendTotal)} seeds disbursed` +
      ` = $${0.01*Math.trunc(100*seedsSendTotal/seedsPerUSD)} @ ${seedsPerUSD} seeds/USD.`);
   
   const replacer = (key, value) => value === null ? '' : value;
